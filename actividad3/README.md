@@ -33,11 +33,11 @@ Restart=always
 WantedBy=multi-user.target
 ```
 
-### Se guardo el archivo
+### Se guardó el archivo
 ```sh
 saludo_infinito.service
 ```
-en la siguiente runta
+en la siguiente ruta
 ```sh
 /etc/systemd/system/
 ```
